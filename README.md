@@ -23,20 +23,6 @@ The dataset consists of customer-related features such as age, income, spending 
 - PCA helped in visualizing the clusters effectively.
 - Insights from segmentation can be used for personalized marketing strategies.
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-segmentation-kmeans.git
-   ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook Customer_Analysis_K_mean_PCA.ipynb
-   ```
-
 ## Future Improvements
 - Experiment with different clustering algorithms like DBSCAN and Hierarchical Clustering.
 - Integrate customer demographics for more refined segmentation.
